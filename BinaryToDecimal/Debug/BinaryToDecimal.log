@@ -1,0 +1,4 @@
+﻿  BinaryToDecimal.cpp
+c:\users\huyen vu\documents\visual studio 2017\dagem\binarytodecimal\binarytodecimal\binarytodecimal.cpp(25): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  BinaryToDecimal.vcxproj -> C:\Users\Huyen VU\Documents\Visual Studio 2017\Dagem\BinaryToDecimal\Debug\BinaryToDecimal.exe
+  BinaryToDecimal.vcxproj -> C:\Users\Huyen VU\Documents\Visual Studio 2017\Dagem\BinaryToDecimal\Debug\BinaryToDecimal.pdb (Partial PDB)
